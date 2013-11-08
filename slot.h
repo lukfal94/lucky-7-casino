@@ -26,6 +26,8 @@ struct player{
     int used;
 };
 
+// This does nothing
+
 int slotMain(struct player player[], int playerNumber);
 void printSlotLogo();
 int menu();
